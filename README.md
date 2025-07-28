@@ -7,7 +7,7 @@ This repository showcases my personal solutions to the [8 Week SQL Challenge](ht
 ## 📑 Table of Contents
 
 - [Introduction](##📘-introduction)
-- [Case Study Solutions](#case-study-solutions)
+- [Case Study Solutions](#🧩-case-study-solutions)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Acknowledgments / References](#acknowledgments--references)
