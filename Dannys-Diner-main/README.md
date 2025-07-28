@@ -52,7 +52,7 @@ Three key tables form the foundation of this case study:
 
 ## Entity Relationship Diagram
 
-![Entity Relationship Diagram](screenshots/erd.png)  
+![Entity Relationship Diagram](https://github.com/user-attachments/assets/c621b967-ad68-43a3-a99b-d77699a195ae)  
 *Diagram created via [dbdiagram.io](https://dbdiagram.io)*
 
 ---
@@ -79,7 +79,7 @@ Three key tables form the foundation of this case study:
 
 ## 🔗 Relevant Links
 
-- [Entity Relationship Diagram – dbdiagram.io](https://dbdiagram.io)
+- [Entity Relationship Diagram – dbdiagram.io]([https://dbdiagram.io](https://dbdiagram.io/d/Dannys-Diner-608d07e4b29a09603d12edbd?utm_source=dbdiagram_embed&utm_medium=bottom_open))
 - [DB Fiddle SQL Schema & Playground](https://www.db-fiddle.com)
 
 ---
