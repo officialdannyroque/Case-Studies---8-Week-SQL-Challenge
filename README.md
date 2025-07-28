@@ -16,7 +16,7 @@ This repository showcases my personal solutions to the [8 Week SQL Challenge](ht
 
 ---
 
-## 📘 Introduction
+## Introduction
 
 The **8 Week SQL Challenge** is a collection of hands-on case studies designed to sharpen your SQL proficiency. Each case mirrors a realistic business scenario, and you'll be challenged to extract insights using structured queries.
 
@@ -24,7 +24,7 @@ This repo contains my answers, explanations, and any helpful resources I used th
 
 ---
 
-## 🧩 Case Study Solutions
+## Case Study Solutions
 
 Each case study has its own folder containing the solution:
 
@@ -39,14 +39,14 @@ Each case study has its own folder containing the solution:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **SQL** – All challenges are solved using SQL
 - **PostgreSQL v15** – My RDBMS of choice for running queries
 
 ---
 
-## 📂 How to Use
+## How to Use
 
 1. Clone this repository to your local environment
 2. Ensure PostgreSQL or your preferred SQL tool is installed
@@ -58,7 +58,7 @@ Each `.md` file includes a direct DB Fiddle link so you can run queries instantl
 
 ---
 
-## 🙌 Acknowledgments / References
+## Acknowledgments / References
 
 - Big thanks to **Danny Ma** for crafting this incredible learning challenge
 - Visit the official [8 Week SQL Challenge website](https://8weeksqlchallenge.com/)
@@ -68,7 +68,7 @@ Each `.md` file includes a direct DB Fiddle link so you can run queries instantl
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 I’m always open to suggestions and collaboration!  
 If you spot bugs, want to contribute improvements, or have a creative spin—feel free to open a new issue or submit a pull request.
@@ -79,6 +79,6 @@ Let’s keep learning together! 🌱
 
 ---
 
-## ⭐ Support
+## Support
 
 If you find this repo helpful or inspiring, a ⭐ would mean a lot!
