@@ -21,7 +21,7 @@
 
 Danny is a die-hard fan of Japanese cuisine and in early 2021 decided to launch a cozy restaurant offering his three favorite dishes: **sushi**, **curry**, and **ramen**.
 
-Although the food has heart, the business needs help — Danny has gathered some basic transactional data but lacks the skills to extract meaningful insights. That’s where this case study begins.
+Although the food has heart, the business needs help, Danny has gathered some basic transactional data but lacks the skills to extract meaningful insights. That’s where this case study begins.
 
 As part of my data analyst portfolio, this project demonstrates how SQL can be used to support business decisions in the restaurant industry.
 
@@ -68,7 +68,7 @@ Three key tables form the foundation of this case study:
 7. Which item was purchased just before the customer became a member?  
 8. What is the total items and amount spent for each member before they became a member?  
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?  
-10. In the first week after a customer joins (including join date), they earn 2x points on all items — how many points do customers A and B have at the end of January?
+10. In the first week after a customer joins (including join date), they earn 2x points on all items, how many points do customers A and B have at the end of January?
 
 ### Bonus Questions
 
@@ -97,4 +97,4 @@ If you’d like to suggest improvements or fix something, feel free to fork the 
 Have questions or suggestions?  
 You can reach me via [LinkedIn](https://linkedin.com/in/YOUR-NAME-HERE) or open an issue in this repository.
 
-If this project helped you, inspired you, or gave you ideas of your own — please consider giving it a ⭐!
+If this project helped you, inspired you, or gave you ideas of your own, please consider giving it a ⭐!
