@@ -1,64 +1,100 @@
-# Dannys-Diner
-🧁 Introduction
-At the start of 2021, Danny — a passionate fan of Japanese cuisine — decided to take a leap of faith and open his own restaurant: Danny’s Diner. Specializing in his three favorite dishes — sushi, curry, and ramen — the cozy spot quickly attracted a small but loyal customer base.
+# 🍱 Case Study #1: Danny's Diner
 
-Now a few months in, Danny is looking to make data-driven decisions to help his business grow. Although he’s been collecting basic data on customer visits and orders, he needs help turning that data into actionable insights.
+![Danny's Diner ERD](screenshots/erd.png) <!-- replace with your actual ERD image path if using -->
 
-🧩 Problem Statement
-Danny wants to better understand his customers — their visit habits, spending behavior, and favorite menu items. With this knowledge, he hopes to enhance the customer experience and decide whether expanding his loyalty program makes strategic sense.
+---
 
-Your task is to analyze the available data and help Danny answer key business questions that will guide his next steps.
+## 📚 Table of Contents
 
-📊 Datasets Overview
-The case study includes three key datasets:
+- [Introduction](#introduction)
+- [Problem Statement](#problem-statement)
+- [Datasets Used](#datasets-used)
+- [Entity Relationship Diagram](#entity-relationship-diagram)
+- [Case Study Questions + Bonus](#case-study-questions--bonus)
+- [Relevant Links](#relevant-links)
+- [Contributing](#contributing)
+- [Support](#support)
 
-sales: Contains each customer’s purchases, including customer_id, order_date, and product_id.
+---
 
-menu: Links product_id to the corresponding product_name and price.
+## 🤖 Introduction
 
-members: Records the join_date for each customer_id that enrolled in Danny’s beta loyalty program.
+Danny is a die-hard fan of Japanese cuisine and in early 2021 decided to launch a cozy restaurant offering his three favorite dishes: **sushi**, **curry**, and **ramen**.
 
-🗺️ Entity Relationship Diagram
-(Refer to the included ERD image for table relationships.)
+Although the food has heart, the business needs help — Danny has gathered some basic transactional data but lacks the skills to extract meaningful insights. That’s where this case study begins.
 
-❓ Case Study Questions
-What is the total amount each customer has spent at the restaurant?
+As part of my data analyst portfolio, this project demonstrates how SQL can be used to support business decisions in the restaurant industry.
 
-How many days has each customer visited?
+---
 
-What was the first item each customer purchased?
+## 🎯 Problem Statement
 
-What is the most popular menu item, and how many times was it ordered?
+Danny is interested in understanding customer behavior to improve operations and customer retention. Specifically, he wants to uncover:
 
-Which item is the top choice for each customer?
+- How often customers visit
+- What they order most frequently
+- How much they’ve spent
+- How effective the current loyalty program has been
 
-What was the first item a customer purchased after joining the loyalty program?
+With these insights, he hopes to enhance the dining experience and decide whether to expand his loyalty rewards system.
 
-What item did a customer purchase just before becoming a member?
+---
 
-How many items and how much did each member spend before joining?
+## 🧾 Datasets Used
 
-If every $1 spent equals 10 points (with sushi earning double points), how many points does each customer have?
+Three key tables form the foundation of this case study:
 
-In the first week after joining (including join date), customers earn 2x points on all items. How many points do customers A and B have by the end of January?
+- `sales`: Records each customer's order history including `customer_id`, `order_date`, and `product_id`
+- `menu`: Maps each `product_id` to its `product_name` and `price`
+- `members`: Tracks when each customer joined the loyalty program via `join_date`
 
-🎁 Bonus Challenges
-Join All The Things
+---
 
-Rank All The Things
+## 🗺️ Entity Relationship Diagram
 
-📎 Helpful Links
-Entity Relationship Diagram – dbdiagram.io
+![Entity Relationship Diagram](screenshots/erd.png)  
+*Diagram created via [dbdiagram.io](https://dbdiagram.io)*
 
-Schema SQL – DB Fiddle
+---
 
-🤝 Contributing
+## ❓ Case Study Questions + Bonus
+
+1. What is the total amount each customer spent at the restaurant?  
+2. How many days has each customer visited the restaurant?  
+3. What was the first item from the menu purchased by each customer?  
+4. What is the most purchased item on the menu and how many times was it purchased by all customers?  
+5. Which item was the most popular for each customer?  
+6. Which item was purchased first by the customer after they became a member?  
+7. Which item was purchased just before the customer became a member?  
+8. What is the total items and amount spent for each member before they became a member?  
+9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?  
+10. In the first week after a customer joins (including join date), they earn 2x points on all items — how many points do customers A and B have at the end of January?
+
+### 🧠 Bonus Questions
+
+- Join All The Things  
+- Rank All The Things
+
+---
+
+## 🔗 Relevant Links
+
+- [Entity Relationship Diagram – dbdiagram.io](https://dbdiagram.io)
+- [DB Fiddle SQL Schema & Playground](https://www.db-fiddle.com)
+
+---
+
+## 🤝 Contributing
+
 Contributions are always welcome!
-If you'd like to improve this project or add your own spin, feel free to fork the repository and submit a pull request.
 
-🙋 Support
-Have a question, idea, or suggestion?
-Let’s connect on LinkedIn — I’d love to hear from you.
+If you’d like to suggest improvements or fix something, feel free to fork the repo and open a pull request.
 
-⭐ If this project inspired you, sparked ideas, or helped you learn something new, please consider starring the repository!
+---
 
+## 💬 Support
+
+Have questions or suggestions?  
+You can reach me via [LinkedIn](https://linkedin.com/in/YOUR-NAME-HERE) or open an issue in this repository.
+
+If this project helped you, inspired you, or gave you ideas of your own — please consider giving it a ⭐!
