@@ -63,7 +63,6 @@ Each `.md` file includes a direct DB Fiddle link so you can run queries instantl
 - Big thanks to **Danny Ma** for crafting this incredible learning challenge
 - Visit the official [8 Week SQL Challenge website](https://8weeksqlchallenge.com/)
 - Also inspired by:
-  - [Manaswi Kamila on GitHub](https://github.com/manaswikamila)
   - [Katie Huang on GitHub](https://github.com/katiehuangx)
 
 ---
@@ -73,7 +72,7 @@ Each `.md` file includes a direct DB Fiddle link so you can run queries instantl
 I’m always open to suggestions and collaboration!  
 If you spot bugs, want to contribute improvements, or have a creative spin—feel free to open a new issue or submit a pull request.
 
-You can also connect with me on [LinkedIn](#) or open a discussion in this repo.
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/daroque/) or open a discussion in this repo.
 
 Let’s keep learning together! 🌱
 
