@@ -11,7 +11,7 @@ This repository showcases my personal solutions to the [8 Week SQL Challenge](ht
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Acknowledgments / References](#acknowledgments--references)
-- [Contributing](#contributing)
+- [Contributing](#-contributing)
 - [Support](#Support)
 
 ---
