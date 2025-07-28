@@ -6,14 +6,14 @@
 
 ## 📚 Table of Contents
 
-- [Introduction](#introduction)
-- [Problem Statement](#problem-statement)
-- [Datasets Used](#datasets-used)
-- [Entity Relationship Diagram](#entity-relationship-diagram)
-- [Case Study Questions + Bonus](#case-study-questions--bonus)
-- [Relevant Links](#relevant-links)
-- [Contributing](#contributing)
-- [Support](#support)
+- [Introduction](#-introduction)
+- [Problem Statement](#-problem-statement)
+- [Datasets Used](#-datasets-used)
+- [Entity Relationship Diagram](#-entity-relationship-diagram)
+- [Case Study Questions + Bonus](#-case-study-questions--bonus)
+- [Relevant Links](#-relevant-links)
+- [Contributing](#-contributing)
+- [Support](#-support)
 
 ---
 
