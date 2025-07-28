@@ -1,6 +1,6 @@
 # 🍱 Case Study #1: Danny's Diner
 
-![Danny's Diner ERD](Screenshot 2025-07-28 at 11 22 05 AM" src="https://github.com/user-attachments/assets/c1e2b31b-fbdb-4ccb-873f-2ee98b77743f) <!-- replace with your actual ERD image path if using -->
+![Danny's Diner ERD](https://github.com/user-attachments/assets/c1e2b31b-fbdb-4ccb-873f-2ee98b77743f) <!-- replace with your actual ERD image path if using -->
 
 ---
 
