@@ -68,7 +68,7 @@ Each `.md` file includes a direct DB Fiddle link so you can run queries instantl
 
 ---
 
-## 🥹 Contributing
+## Contributing
 
 I’m always open to suggestions and collaboration!  
 If you spot bugs, want to contribute improvements, or have a creative spin—feel free to open a new issue or submit a pull request.
