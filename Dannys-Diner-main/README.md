@@ -6,18 +6,18 @@
 
 ## 📚 Table of Contents
 
-- [Introduction](#-introduction)
+- [Introduction](#introduction)
 - [Problem Statement](#-problem-statement)
 - [Datasets Used](#-datasets-used)
-- [Entity Relationship Diagram](#-entity-relationship-diagram)
-- [Case Study Questions + Bonus](#-case-study-questions--bonus)
+- [Entity Relationship Diagram](#entity-relationship-diagram)
+- [Case Study Questions + Bonus](#case-study-questions--bonus)
 - [Relevant Links](#-relevant-links)
-- [Contributing](#-contributing)
-- [Support](#-support)
+- [Contributing](#contributing)
+- [Support](#support)
 
 ---
 
-## 🤖 Introduction
+## Introduction
 
 Danny is a die-hard fan of Japanese cuisine and in early 2021 decided to launch a cozy restaurant offering his three favorite dishes: **sushi**, **curry**, and **ramen**.
 
@@ -50,14 +50,14 @@ Three key tables form the foundation of this case study:
 
 ---
 
-## 🗺️ Entity Relationship Diagram
+## Entity Relationship Diagram
 
 ![Entity Relationship Diagram](screenshots/erd.png)  
 *Diagram created via [dbdiagram.io](https://dbdiagram.io)*
 
 ---
 
-## ❓ Case Study Questions + Bonus
+## Case Study Questions + Bonus
 
 1. What is the total amount each customer spent at the restaurant?  
 2. How many days has each customer visited the restaurant?  
@@ -70,7 +70,7 @@ Three key tables form the foundation of this case study:
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?  
 10. In the first week after a customer joins (including join date), they earn 2x points on all items — how many points do customers A and B have at the end of January?
 
-### 🧠 Bonus Questions
+### Bonus Questions
 
 - Join All The Things  
 - Rank All The Things
@@ -84,7 +84,7 @@ Three key tables form the foundation of this case study:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are always welcome!
 
@@ -92,7 +92,7 @@ If you’d like to suggest improvements or fix something, feel free to fork the 
 
 ---
 
-## 💬 Support
+## Support
 
 Have questions or suggestions?  
 You can reach me via [LinkedIn](https://linkedin.com/in/YOUR-NAME-HERE) or open an issue in this repository.
