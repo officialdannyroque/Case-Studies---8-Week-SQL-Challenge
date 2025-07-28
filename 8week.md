@@ -1,6 +1,6 @@
 # 8 Week SQL Challenge 🚀
 
-This repository showcases my personal solutions to the [8 Week SQL Challenge](https://8weeksqlchallenge.com/) curated by Danny Ma.
+This repository showcases my personal solutions to the [8 Week SQL Challenge](https://8weeksqlchallenge.com/) curated by [Danny Ma](https://www.linkedin.com/in/dannyma/).
 
 ---
 
