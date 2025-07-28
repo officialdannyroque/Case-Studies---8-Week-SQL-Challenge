@@ -74,7 +74,7 @@ If you spot bugs, want to contribute improvements, or have a creative spin—fee
 
 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/daroque/) or open a discussion in this repo.
 
-Let’s keep learning together! 🌱
+Let’s keep learning together!
 
 ---
 
