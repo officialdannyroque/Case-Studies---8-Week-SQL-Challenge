@@ -1,4 +1,4 @@
-# 🍱 Case Study #1: Danny's Diner
+# Case Study #1: Danny's Diner
 
 ![Danny's Diner ERD](https://github.com/user-attachments/assets/c1e2b31b-fbdb-4ccb-873f-2ee98b77743f) <!-- replace with your actual ERD image path if using -->
 
